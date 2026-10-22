@@ -1,0 +1,906 @@
+date,channel,campaign,region,device,impressions,clicks,conversions,spend,revenue
+2025-01-01,Google Ads,Shopping - Core,West,Tablet,10391,380,23,476.35,716.29
+2025-01-01,Meta Ads,Prospecting - Broad,Central,Desktop,35923,609,19,376.82,924.32
+2025-01-01,YouTube,Remarketing Video,South,Desktop,22291,290,5,124.85,157.21
+2025-01-01,Display Ads,Contextual - News,West,Mobile,31003,239,6,70.23,198.33
+2025-01-01,Email,Lifecycle - Nurture,West,Mobile,20828,1331,122,111.75,4789.96
+2025-01-02,Google Ads,Search - Brand,Central,Desktop,14199,625,33,646.29,1795.92
+2025-01-02,Meta Ads,Prospecting - Broad,West,Desktop,10694,169,5,107.7,218.27
+2025-01-02,YouTube,Shorts - Reach,West,Desktop,12310,165,4,79.84,169.27
+2025-01-02,Display Ads,Banner - Retargeting,Central,Mobile,28114,199,1,61.58,28.7
+2025-01-02,Email,Lifecycle - Nurture,North,Mobile,28478,1605,128,130.91,6728.82
+2025-01-03,Google Ads,Search - Brand,East,Mobile,44344,1926,111,1875.84,5804.8
+2025-01-03,Meta Ads,Retargeting - Site Visitors,Central,Mobile,32152,534,19,337.38,753.57
+2025-01-03,YouTube,In-stream Awareness,Central,Mobile,19703,220,4,90.45,139.16
+2025-01-03,Display Ads,Contextual - News,West,Mobile,12787,110,1,38.01,31.41
+2025-01-03,Email,Newsletter - Weekly,South,Tablet,43468,1987,125,139.94,5358.6
+2025-01-04,Google Ads,Search - Brand,East,Mobile,36592,1865,109,1904.46,4912.71
+2025-01-04,Meta Ads,Prospecting - Broad,West,Desktop,34421,646,25,371.96,1063.63
+2025-01-04,YouTube,Remarketing Video,East,Mobile,23419,282,6,161.38,186.0
+2025-01-04,Display Ads,Banner - Retargeting,South,Mobile,13819,127,0,42.38,0.0
+2025-01-04,Email,Lifecycle - Nurture,East,Desktop,42154,2351,198,157.01,6696.7
+2025-01-05,Google Ads,Search - Brand,Central,Mobile,9468,579,41,898.67,1212.74
+2025-01-05,Meta Ads,Prospecting - Broad,Central,Mobile,19599,326,5,187.27,250.29
+2025-01-05,YouTube,Shorts - Reach,Central,Desktop,18482,154,2,69.61,79.84
+2025-01-05,Display Ads,Programmatic - Prospecting,East,Mobile,36208,340,3,102.28,84.28
+2025-01-05,Email,Winback - Dormant,Central,Mobile,18778,1296,121,92.45,5409.07
+2025-01-06,Google Ads,Search - Brand,West,Desktop,42569,2069,109,2249.44,5394.54
+2025-01-06,Meta Ads,Lead Gen - Lookalike,Central,Mobile,15489,293,12,210.13,466.72
+2025-01-06,YouTube,In-stream Awareness,North,Desktop,10589,162,6,79.47,171.85
+2025-01-06,Display Ads,Programmatic - Prospecting,Central,Mobile,40892,304,6,114.34,255.61
+2025-01-06,Email,Newsletter - Weekly,North,Desktop,36541,2036,157,162.78,9051.67
+2025-01-07,Google Ads,Search - Brand,North,Desktop,43833,1955,92,2020.75,4150.41
+2025-01-07,Meta Ads,Retargeting - Site Visitors,West,Tablet,35081,634,18,370.24,892.46
+2025-01-07,YouTube,In-stream Awareness,West,Mobile,26798,281,5,131.26,196.04
+2025-01-07,Display Ads,Contextual - News,Central,Mobile,12332,102,1,42.5,28.78
+2025-01-07,Email,Winback - Dormant,West,Desktop,31103,1972,144,180.59,5357.26
+2025-01-08,Google Ads,Shopping - Core,West,Desktop,29918,1218,76,1253.31,2802.63
+2025-01-08,Meta Ads,Prospecting - Broad,Central,Mobile,43447,617,15,365.64,826.03
+2025-01-08,YouTube,Shorts - Reach,North,Mobile,12467,170,2,85.86,74.17
+2025-01-08,Display Ads,Programmatic - Prospecting,Central,Mobile,33943,282,4,84.23,160.79
+2025-01-08,Email,Newsletter - Weekly,South,Mobile,19083,1155,99,92.4,4474.25
+2025-01-09,Google Ads,Search - Generic,Central,Mobile,43055,1671,102,1665.13,5319.14
+2025-01-09,Meta Ads,Retargeting - Site Visitors,West,Desktop,39055,760,28,408.41,1231.82
+2025-01-09,YouTube,In-stream Awareness,West,Mobile,35083,401,10,196.0,204.44
+2025-01-09,Display Ads,Banner - Retargeting,South,Mobile,31303,263,3,80.4,108.02
+2025-01-09,Email,Lifecycle - Nurture,Central,Desktop,26192,1478,106,117.37,6017.02
+2025-01-10,Google Ads,Search - Generic,East,Mobile,25274,1378,87,1668.2,4798.38
+2025-01-10,Meta Ads,Prospecting - Broad,West,Mobile,9753,206,8,109.66,324.47
+2025-01-10,YouTube,Remarketing Video,Central,Desktop,10613,169,6,88.23,225.25
+2025-01-10,Display Ads,Banner - Retargeting,North,Mobile,22455,200,5,58.63,171.0
+2025-01-10,Email,Winback - Dormant,West,Desktop,10611,672,47,61.21,2280.45
+2025-01-11,Google Ads,Search - Generic,West,Desktop,26672,754,43,805.59,2612.34
+2025-01-11,Meta Ads,Lead Gen - Lookalike,West,Mobile,22907,369,10,251.12,437.61
+2025-01-11,YouTube,Shorts - Reach,West,Mobile,37218,434,5,204.51,224.19
+2025-01-11,Display Ads,Banner - Retargeting,East,Mobile,21566,218,5,63.54,176.19
+2025-01-11,Email,Winback - Dormant,East,Mobile,31772,2200,150,193.78,6645.19
+2025-01-12,Google Ads,Shopping - Core,East,Mobile,29353,1212,67,1411.84,2491.45
+2025-01-12,Meta Ads,Prospecting - Broad,West,Desktop,7459,146,2,93.52,49.07
+2025-01-12,YouTube,In-stream Awareness,West,Mobile,17788,231,12,120.22,401.63
+2025-01-12,Display Ads,Contextual - News,North,Mobile,32867,288,2,84.37,70.41
+2025-01-12,Email,Winback - Dormant,Central,Mobile,41604,2730,203,211.43,5987.98
+2025-01-13,Google Ads,Shopping - Core,East,Desktop,17936,708,48,887.42,2755.72
+2025-01-13,Meta Ads,Retargeting - Site Visitors,North,Desktop,8525,132,5,95.13,178.35
+2025-01-13,YouTube,In-stream Awareness,North,Mobile,9014,101,5,53.15,142.73
+2025-01-13,Display Ads,Banner - Retargeting,North,Mobile,30419,264,4,83.15,158.72
+2025-01-13,Email,Winback - Dormant,East,Mobile,21302,1127,74,94.79,3193.97
+2025-01-14,Google Ads,Shopping - Core,East,Mobile,33591,1421,75,1852.72,3826.01
+2025-01-14,Meta Ads,Prospecting - Broad,Central,Mobile,43989,814,25,569.86,1112.95
+2025-01-14,YouTube,Remarketing Video,North,Mobile,22648,231,4,89.73,121.43
+2025-01-14,Display Ads,Banner - Retargeting,East,Desktop,25136,241,3,68.22,94.53
+2025-01-14,Email,Lifecycle - Nurture,South,Mobile,31792,2120,170,162.7,7828.92
+2025-01-15,Google Ads,Shopping - Core,East,Mobile,37715,1725,101,2122.0,4167.79
+2025-01-15,Meta Ads,Retargeting - Site Visitors,South,Mobile,38820,782,17,547.98,677.21
+2025-01-15,YouTube,In-stream Awareness,West,Mobile,34769,279,7,128.53,194.42
+2025-01-15,Display Ads,Programmatic - Prospecting,Central,Desktop,12837,89,1,23.35,30.67
+2025-01-15,Email,Newsletter - Weekly,West,Mobile,23129,1503,113,97.72,5117.44
+2025-01-16,Google Ads,Shopping - Core,West,Mobile,26953,1358,81,1432.7,4906.3
+2025-01-16,Meta Ads,Retargeting - Site Visitors,North,Mobile,25229,424,18,233.19,817.55
+2025-01-16,YouTube,In-stream Awareness,South,Desktop,18098,196,3,107.04,97.86
+2025-01-16,Display Ads,Banner - Retargeting,West,Mobile,39456,305,5,94.63,176.22
+2025-01-16,Email,Lifecycle - Nurture,East,Desktop,27502,1846,139,154.5,8736.21
+2025-01-17,Google Ads,Search - Generic,South,Mobile,18589,681,36,666.2,1831.98
+2025-01-17,Meta Ads,Lead Gen - Lookalike,East,Mobile,13745,287,4,193.73,148.26
+2025-01-17,YouTube,Shorts - Reach,Central,Tablet,12411,147,3,72.78,117.9
+2025-01-17,Display Ads,Programmatic - Prospecting,Central,Desktop,30573,299,6,92.78,115.51
+2025-01-17,Email,Winback - Dormant,North,Tablet,24508,1659,128,164.53,6137.54
+2025-01-18,Google Ads,Search - Brand,North,Desktop,44413,2088,116,2926.0,3912.54
+2025-01-18,Meta Ads,Retargeting - Site Visitors,West,Desktop,43603,899,40,573.54,1835.86
+2025-01-18,YouTube,In-stream Awareness,North,Mobile,10223,108,4,47.88,172.87
+2025-01-18,Display Ads,Programmatic - Prospecting,West,Desktop,43219,281,4,92.46,146.93
+2025-01-18,Email,Lifecycle - Nurture,North,Mobile,35098,2376,172,195.59,7284.44
+2025-01-19,Google Ads,Shopping - Core,Central,Desktop,16993,829,42,892.32,2600.58
+2025-01-19,Meta Ads,Lead Gen - Lookalike,North,Mobile,18359,215,5,128.33,202.82
+2025-01-19,YouTube,Shorts - Reach,East,Mobile,32650,286,13,148.8,509.29
+2025-01-19,Display Ads,Programmatic - Prospecting,East,Mobile,12199,108,1,27.38,31.61
+2025-01-19,Email,Lifecycle - Nurture,East,Mobile,10914,524,36,44.87,1708.88
+2025-01-20,Google Ads,Search - Generic,South,Mobile,22974,718,36,823.96,1702.62
+2025-01-20,Meta Ads,Lead Gen - Lookalike,Central,Mobile,40853,666,22,285.84,969.3
+2025-01-20,YouTube,In-stream Awareness,East,Desktop,16172,223,6,111.53,243.8
+2025-01-20,Display Ads,Contextual - News,West,Desktop,29230,268,9,92.19,277.29
+2025-01-20,Email,Newsletter - Weekly,Central,Mobile,41297,2283,190,172.14,8018.15
+2025-01-21,Google Ads,Search - Generic,Central,Mobile,42516,2241,126,1880.77,3521.97
+2025-01-21,Meta Ads,Retargeting - Site Visitors,South,Mobile,24294,421,8,295.88,273.66
+2025-01-21,YouTube,Remarketing Video,South,Mobile,41116,412,7,211.02,297.0
+2025-01-21,Display Ads,Programmatic - Prospecting,South,Mobile,11258,73,1,23.33,26.56
+2025-01-21,Email,Winback - Dormant,South,Desktop,27944,1368,108,108.18,3629.65
+2025-01-22,Google Ads,Search - Brand,North,Mobile,15673,741,37,930.61,1919.16
+2025-01-22,Meta Ads,Prospecting - Broad,West,Mobile,19122,361,9,228.07,432.91
+2025-01-22,YouTube,Shorts - Reach,North,Desktop,30565,432,8,236.91,202.23
+2025-01-22,Display Ads,Banner - Retargeting,East,Desktop,27263,238,5,72.76,170.35
+2025-01-22,Email,Lifecycle - Nurture,West,Mobile,24269,1993,145,193.6,7696.54
+2025-01-23,Google Ads,Search - Brand,West,Mobile,18264,915,52,1145.69,1694.66
+2025-01-23,Meta Ads,Prospecting - Broad,Central,Mobile,13288,184,7,137.1,365.93
+2025-01-23,YouTube,In-stream Awareness,South,Tablet,15978,198,2,82.57,76.83
+2025-01-23,Display Ads,Banner - Retargeting,Central,Desktop,7152,56,1,21.79,34.07
+2025-01-23,Email,Lifecycle - Nurture,Central,Desktop,22771,1100,75,86.4,3767.47
+2025-01-24,Google Ads,Search - Generic,West,Mobile,38777,1706,86,2196.32,4156.91
+2025-01-24,Meta Ads,Retargeting - Site Visitors,North,Tablet,26959,518,17,370.77,697.01
+2025-01-24,YouTube,Shorts - Reach,East,Mobile,22932,285,7,133.48,278.11
+2025-01-24,Display Ads,Contextual - News,West,Mobile,36344,269,1,88.6,27.03
+2025-01-24,Email,Lifecycle - Nurture,West,Desktop,14582,691,55,41.24,3082.94
+2025-01-25,Google Ads,Search - Generic,South,Mobile,43090,1545,85,1695.77,5429.38
+2025-01-25,Meta Ads,Retargeting - Site Visitors,South,Mobile,44210,800,32,600.38,1375.71
+2025-01-25,YouTube,Shorts - Reach,South,Mobile,28713,300,9,160.74,311.85
+2025-01-25,Display Ads,Programmatic - Prospecting,South,Tablet,21333,179,1,57.38,36.6
+2025-01-25,Email,Newsletter - Weekly,East,Mobile,34635,1538,132,122.18,6980.28
+2025-01-26,Google Ads,Search - Brand,West,Mobile,26836,1080,54,1235.06,2929.92
+2025-01-26,Meta Ads,Prospecting - Broad,North,Desktop,40577,728,27,439.39,1128.29
+2025-01-26,YouTube,Remarketing Video,South,Mobile,44413,426,4,175.72,159.9
+2025-01-26,Display Ads,Programmatic - Prospecting,East,Mobile,23156,128,1,36.87,31.5
+2025-01-26,Email,Winback - Dormant,East,Desktop,13091,933,74,68.59,2463.08
+2025-01-27,Google Ads,Shopping - Core,South,Mobile,8146,471,20,501.21,921.05
+2025-01-27,Meta Ads,Prospecting - Broad,South,Desktop,17052,247,7,139.33,323.4
+2025-01-27,YouTube,Remarketing Video,North,Mobile,12095,182,2,92.91,50.27
+2025-01-27,Display Ads,Banner - Retargeting,East,Mobile,42720,349,4,104.02,182.08
+2025-01-27,Email,Lifecycle - Nurture,South,Mobile,38367,2333,191,186.77,8647.02
+2025-01-28,Google Ads,Shopping - Core,East,Mobile,11520,538,31,684.51,1809.49
+2025-01-28,Meta Ads,Prospecting - Broad,Central,Mobile,32096,272,10,176.39,289.71
+2025-01-28,YouTube,Shorts - Reach,West,Desktop,41985,398,6,174.72,208.14
+2025-01-28,Display Ads,Contextual - News,East,Mobile,31218,322,3,104.66,99.99
+2025-01-28,Email,Winback - Dormant,West,Mobile,44748,2561,207,186.63,9037.3
+2025-01-29,Google Ads,Shopping - Core,North,Mobile,12820,473,25,475.96,1110.94
+2025-01-29,Meta Ads,Lead Gen - Lookalike,Central,Mobile,24965,486,12,245.97,570.73
+2025-01-29,YouTube,Shorts - Reach,West,Desktop,44542,566,11,261.81,483.5
+2025-01-29,Display Ads,Banner - Retargeting,East,Desktop,20920,206,3,65.05,116.08
+2025-01-29,Email,Lifecycle - Nurture,South,Mobile,19556,1160,92,84.68,4234.28
+2025-01-30,Google Ads,Search - Brand,West,Desktop,32364,1358,70,1703.42,4232.31
+2025-01-30,Meta Ads,Prospecting - Broad,South,Mobile,35547,522,14,325.67,552.35
+2025-01-30,YouTube,Remarketing Video,Central,Mobile,32639,413,8,207.99,188.65
+2025-01-30,Display Ads,Programmatic - Prospecting,East,Desktop,35330,282,7,101.56,246.69
+2025-01-30,Email,Winback - Dormant,East,Mobile,7882,427,40,34.15,1523.77
+2025-01-31,Google Ads,Search - Generic,North,Tablet,23825,925,61,954.07,2424.35
+2025-01-31,Meta Ads,Lead Gen - Lookalike,South,Desktop,35309,612,19,384.43,600.16
+2025-01-31,YouTube,In-stream Awareness,South,Desktop,31084,380,6,192.13,287.67
+2025-01-31,Display Ads,Programmatic - Prospecting,Central,Mobile,39701,280,2,88.95,73.57
+2025-01-31,Email,Winback - Dormant,South,Desktop,33595,1611,117,125.33,8103.45
+2025-02-01,Google Ads,Search - Brand,West,Mobile,44271,2079,121,2347.46,5923.41
+2025-02-01,Meta Ads,Lead Gen - Lookalike,West,Desktop,34013,684,22,410.0,925.41
+2025-02-01,YouTube,In-stream Awareness,Central,Mobile,31802,336,3,185.01,124.15
+2025-02-01,Display Ads,Banner - Retargeting,West,Desktop,18285,162,2,55.56,54.57
+2025-02-01,Email,Newsletter - Weekly,East,Desktop,38620,1985,143,183.64,6256.33
+2025-02-02,Google Ads,Search - Brand,South,Mobile,17161,783,41,1022.95,1617.79
+2025-02-02,Meta Ads,Lead Gen - Lookalike,Central,Mobile,7019,109,1,65.67,39.96
+2025-02-02,YouTube,In-stream Awareness,East,Mobile,8001,59,1,25.28,33.31
+2025-02-02,Display Ads,Banner - Retargeting,West,Mobile,21990,216,4,69.63,133.83
+2025-02-02,Email,Lifecycle - Nurture,North,Mobile,18748,719,60,53.77,2995.03
+2025-02-03,Google Ads,Shopping - Core,Central,Mobile,13663,728,41,855.69,2489.78
+2025-02-03,Meta Ads,Prospecting - Broad,South,Mobile,30451,512,19,307.74,656.49
+2025-02-03,YouTube,Shorts - Reach,East,Mobile,38484,611,6,278.79,180.84
+2025-02-03,Display Ads,Banner - Retargeting,North,Mobile,17958,141,2,36.46,69.82
+2025-02-03,Email,Newsletter - Weekly,South,Desktop,26832,1227,90,108.23,4132.07
+2025-02-04,Google Ads,Search - Generic,South,Mobile,36394,1818,106,2055.33,4852.95
+2025-02-04,Meta Ads,Lead Gen - Lookalike,North,Mobile,15176,369,13,195.07,691.94
+2025-02-04,YouTube,Shorts - Reach,South,Mobile,10976,141,4,66.85,133.55
+2025-02-04,Display Ads,Contextual - News,Central,Desktop,9100,102,1,33.81,31.01
+2025-02-04,Email,Newsletter - Weekly,North,Desktop,33577,1514,101,94.8,5754.03
+2025-02-05,Google Ads,Search - Generic,Central,Mobile,38152,1843,95,2318.48,5158.13
+2025-02-05,Meta Ads,Lead Gen - Lookalike,West,Mobile,41798,677,21,363.19,895.73
+2025-02-05,YouTube,Remarketing Video,Central,Mobile,29220,352,4,180.53,194.46
+2025-02-05,Display Ads,Banner - Retargeting,West,Desktop,28941,209,3,75.27,94.43
+2025-02-05,Email,Lifecycle - Nurture,East,Mobile,21876,944,62,84.29,3007.02
+2025-02-06,Google Ads,Search - Generic,West,Mobile,43868,1960,100,2724.54,4884.17
+2025-02-06,Meta Ads,Prospecting - Broad,East,Desktop,28381,506,20,309.37,940.11
+2025-02-06,YouTube,In-stream Awareness,West,Mobile,44708,676,17,309.88,573.49
+2025-02-06,Display Ads,Programmatic - Prospecting,Central,Mobile,8464,87,0,29.06,0.0
+2025-02-06,Email,Lifecycle - Nurture,North,Mobile,14717,892,63,73.5,3943.11
+2025-02-07,Google Ads,Search - Brand,Central,Desktop,17272,715,34,783.32,1880.37
+2025-02-07,Meta Ads,Prospecting - Broad,East,Desktop,39357,585,17,365.03,386.77
+2025-02-07,YouTube,Remarketing Video,South,Mobile,25307,289,6,97.43,278.6
+2025-02-07,Display Ads,Programmatic - Prospecting,North,Desktop,11893,108,1,31.76,37.46
+2025-02-07,Email,Newsletter - Weekly,South,Mobile,7910,506,42,33.27,1736.99
+2025-02-08,Google Ads,Search - Brand,North,Mobile,12182,643,39,765.44,2122.03
+2025-02-08,Meta Ads,Prospecting - Broad,North,Desktop,10678,222,9,142.1,504.52
+2025-02-08,YouTube,Remarketing Video,South,Mobile,44648,515,9,223.53,369.02
+2025-02-08,Display Ads,Banner - Retargeting,Central,Mobile,44754,506,7,168.27,277.24
+2025-02-08,Email,Winback - Dormant,Central,Desktop,18816,866,76,72.21,3259.26
+2025-02-09,Google Ads,Shopping - Core,North,Mobile,28563,1226,56,1345.98,3105.07
+2025-02-09,Meta Ads,Lead Gen - Lookalike,West,Tablet,14521,323,12,230.19,366.58
+2025-02-09,YouTube,Shorts - Reach,East,Desktop,39001,332,8,158.9,334.43
+2025-02-09,Display Ads,Contextual - News,North,Mobile,15190,148,1,31.07,32.99
+2025-02-09,Email,Winback - Dormant,West,Mobile,21877,1607,126,111.8,5095.01
+2025-02-10,Google Ads,Search - Brand,North,Tablet,18978,566,32,796.36,1695.13
+2025-02-10,Meta Ads,Prospecting - Broad,East,Desktop,15981,270,4,163.3,150.44
+2025-02-10,YouTube,Shorts - Reach,West,Desktop,16911,202,5,102.93,266.26
+2025-02-10,Display Ads,Banner - Retargeting,Central,Mobile,43056,429,3,123.24,120.28
+2025-02-10,Email,Winback - Dormant,Central,Mobile,19372,1118,82,93.63,3153.17
+2025-02-11,Google Ads,Search - Brand,East,Mobile,15688,789,41,988.52,2051.94
+2025-02-11,Meta Ads,Lead Gen - Lookalike,South,Mobile,17522,244,7,171.63,313.08
+2025-02-11,YouTube,Shorts - Reach,Central,Mobile,15662,183,7,90.9,338.61
+2025-02-11,Display Ads,Programmatic - Prospecting,North,Mobile,34253,299,5,94.47,214.9
+2025-02-11,Email,Lifecycle - Nurture,Central,Mobile,39536,2410,212,234.11,10558.95
+2025-02-12,Google Ads,Shopping - Core,South,Mobile,8734,296,19,282.1,929.97
+2025-02-12,Meta Ads,Prospecting - Broad,Central,Mobile,30819,329,9,199.31,520.61
+2025-02-12,YouTube,In-stream Awareness,Central,Desktop,17742,230,7,117.86,281.8
+2025-02-12,Display Ads,Programmatic - Prospecting,South,Mobile,13656,126,0,33.68,0.0
+2025-02-12,Email,Lifecycle - Nurture,South,Desktop,33869,1640,124,125.63,4523.18
+2025-02-13,Google Ads,Search - Generic,South,Mobile,24033,971,60,1032.95,2770.24
+2025-02-13,Meta Ads,Lead Gen - Lookalike,Central,Mobile,41575,1017,31,640.55,1511.89
+2025-02-13,YouTube,In-stream Awareness,Central,Tablet,15967,198,3,86.89,107.53
+2025-02-13,Display Ads,Banner - Retargeting,West,Mobile,24917,190,3,59.43,121.81
+2025-02-13,Email,Winback - Dormant,East,Desktop,7600,280,20,24.06,971.24
+2025-02-14,Google Ads,Search - Brand,West,Mobile,44601,1660,94,2080.63,4426.76
+2025-02-14,Meta Ads,Prospecting - Broad,North,Mobile,42674,521,14,291.88,629.86
+2025-02-14,YouTube,Remarketing Video,South,Mobile,30916,346,7,138.66,231.11
+2025-02-14,Display Ads,Contextual - News,Central,Mobile,37855,294,2,89.65,58.01
+2025-02-14,Email,Newsletter - Weekly,West,Desktop,43492,2063,160,168.25,7393.29
+2025-02-15,Google Ads,Search - Generic,Central,Mobile,36330,1631,95,1548.48,5404.42
+2025-02-15,Meta Ads,Prospecting - Broad,North,Desktop,14935,261,5,172.5,205.49
+2025-02-15,YouTube,Remarketing Video,Central,Desktop,21118,296,5,125.29,142.58
+2025-02-15,Display Ads,Contextual - News,Central,Mobile,35065,299,3,100.88,106.38
+2025-02-15,Email,Lifecycle - Nurture,East,Mobile,34732,2063,167,187.47,7250.09
+2025-02-16,Google Ads,Shopping - Core,North,Mobile,14304,618,38,677.97,1810.02
+2025-02-16,Meta Ads,Prospecting - Broad,North,Mobile,42864,845,32,707.11,1422.39
+2025-02-16,YouTube,Shorts - Reach,North,Desktop,36891,503,13,275.5,594.66
+2025-02-16,Display Ads,Banner - Retargeting,West,Mobile,15651,133,1,48.06,28.92
+2025-02-16,Email,Winback - Dormant,North,Desktop,11627,833,63,52.52,2791.7
+2025-02-17,Google Ads,Search - Generic,East,Mobile,38179,971,53,1203.53,2489.43
+2025-02-17,Meta Ads,Lead Gen - Lookalike,West,Mobile,38620,631,23,450.98,898.95
+2025-02-17,YouTube,In-stream Awareness,Central,Mobile,14164,181,4,68.53,155.52
+2025-02-17,Display Ads,Banner - Retargeting,North,Desktop,20510,217,1,79.37,35.37
+2025-02-17,Email,Newsletter - Weekly,West,Desktop,17793,933,68,73.84,2218.66
+2025-02-18,Google Ads,Shopping - Core,West,Desktop,42524,1816,113,1712.32,6049.05
+2025-02-18,Meta Ads,Retargeting - Site Visitors,Central,Desktop,8173,143,1,97.95,30.11
+2025-02-18,YouTube,Remarketing Video,East,Mobile,34920,324,8,163.18,433.94
+2025-02-18,Display Ads,Contextual - News,East,Mobile,8032,51,1,15.35,19.77
+2025-02-18,Email,Lifecycle - Nurture,North,Mobile,11678,733,43,65.85,1167.75
+2025-02-19,Google Ads,Shopping - Core,North,Mobile,12359,454,32,530.03,1389.9
+2025-02-19,Meta Ads,Prospecting - Broad,East,Mobile,12060,162,11,92.45,555.75
+2025-02-19,YouTube,In-stream Awareness,West,Mobile,38435,417,8,201.92,299.03
+2025-02-19,Display Ads,Contextual - News,West,Desktop,42674,309,3,109.73,98.52
+2025-02-19,Email,Lifecycle - Nurture,Central,Mobile,16906,943,82,88.81,4227.74
+2025-02-20,Google Ads,Shopping - Core,South,Mobile,40498,1661,91,2114.81,5232.23
+2025-02-20,Meta Ads,Retargeting - Site Visitors,West,Desktop,30630,776,19,421.61,629.05
+2025-02-20,YouTube,In-stream Awareness,Central,Mobile,30156,293,2,138.2,87.52
+2025-02-20,Display Ads,Programmatic - Prospecting,West,Desktop,35230,258,3,83.27,133.32
+2025-02-20,Email,Lifecycle - Nurture,East,Mobile,42331,2636,191,182.5,8936.93
+2025-02-21,Google Ads,Search - Generic,South,Mobile,42024,2125,140,2799.43,7084.76
+2025-02-21,Meta Ads,Prospecting - Broad,Central,Mobile,29308,553,20,330.49,790.75
+2025-02-21,YouTube,Shorts - Reach,West,Mobile,12862,138,3,62.72,123.08
+2025-02-21,Display Ads,Contextual - News,South,Desktop,18004,94,1,31.8,34.24
+2025-02-21,Email,Winback - Dormant,Central,Tablet,44955,1738,133,143.61,5609.09
+2025-02-22,Google Ads,Search - Generic,West,Mobile,11155,478,34,410.67,1990.9
+2025-02-22,Meta Ads,Lead Gen - Lookalike,Central,Desktop,38647,780,36,533.54,1273.56
+2025-02-22,YouTube,In-stream Awareness,East,Mobile,43501,417,8,210.12,308.81
+2025-02-22,Display Ads,Banner - Retargeting,North,Desktop,22516,228,2,65.07,68.13
+2025-02-22,Email,Lifecycle - Nurture,South,Mobile,44445,1688,144,135.57,7412.57
+2025-02-23,Google Ads,Search - Brand,Central,Mobile,31923,1359,67,1688.9,3118.37
+2025-02-23,Meta Ads,Retargeting - Site Visitors,North,Desktop,26719,537,11,289.61,547.16
+2025-02-23,YouTube,Remarketing Video,South,Desktop,7418,85,2,44.12,79.22
+2025-02-23,Display Ads,Contextual - News,West,Mobile,12356,77,1,21.49,38.47
+2025-02-23,Email,Newsletter - Weekly,East,Desktop,20667,877,65,76.26,3044.6
+2025-02-24,Google Ads,Search - Generic,West,Mobile,16411,765,46,714.93,1896.73
+2025-02-24,Meta Ads,Prospecting - Broad,North,Desktop,16331,279,8,160.91,363.4
+2025-02-24,YouTube,Remarketing Video,East,Tablet,28561,408,2,210.01,84.47
+2025-02-24,Display Ads,Programmatic - Prospecting,East,Mobile,7457,61,2,18.42,58.45
+2025-02-24,Email,Winback - Dormant,West,Desktop,9534,694,56,35.22,2428.88
+2025-02-25,Google Ads,Search - Generic,South,Tablet,9850,525,28,464.54,1330.67
+2025-02-25,Meta Ads,Lead Gen - Lookalike,East,Desktop,11956,248,6,167.27,233.69
+2025-02-25,YouTube,Remarketing Video,South,Mobile,34897,316,5,180.88,150.26
+2025-02-25,Display Ads,Contextual - News,West,Mobile,25143,204,6,55.66,190.06
+2025-02-25,Email,Lifecycle - Nurture,South,Desktop,32619,1636,123,117.2,5907.9
+2025-02-26,Google Ads,Search - Generic,West,Desktop,34788,1276,86,1627.3,3692.54
+2025-02-26,Meta Ads,Retargeting - Site Visitors,South,Mobile,25592,438,16,263.87,730.68
+2025-02-26,YouTube,Shorts - Reach,South,Mobile,14979,205,2,95.62,77.43
+2025-02-26,Display Ads,Banner - Retargeting,East,Mobile,21201,193,0,47.73,0.0
+2025-02-26,Email,Winback - Dormant,Central,Mobile,36061,2175,185,168.74,8813.88
+2025-02-27,Google Ads,Search - Brand,Central,Tablet,23008,781,42,940.26,1982.78
+2025-02-27,Meta Ads,Prospecting - Broad,North,Tablet,35010,554,13,361.37,407.94
+2025-02-27,YouTube,In-stream Awareness,Central,Mobile,7616,73,1,40.04,29.35
+2025-02-27,Display Ads,Programmatic - Prospecting,West,Desktop,7707,63,0,20.09,0.0
+2025-02-27,Email,Newsletter - Weekly,South,Desktop,26091,1342,101,109.03,3415.15
+2025-02-28,Google Ads,Search - Generic,East,Mobile,39781,1636,91,2176.76,4055.93
+2025-02-28,Meta Ads,Retargeting - Site Visitors,South,Mobile,14606,241,9,167.29,398.04
+2025-02-28,YouTube,Remarketing Video,North,Mobile,18531,191,5,76.51,212.59
+2025-02-28,Display Ads,Contextual - News,South,Desktop,41203,262,3,91.56,123.28
+2025-02-28,Email,Newsletter - Weekly,West,Mobile,20071,1330,107,100.11,5258.39
+2025-03-01,Google Ads,Shopping - Core,North,Mobile,13760,726,55,831.66,2477.41
+2025-03-01,Meta Ads,Prospecting - Broad,South,Mobile,19753,359,10,188.23,424.06
+2025-03-01,YouTube,Shorts - Reach,Central,Desktop,19461,250,3,125.57,117.25
+2025-03-01,Display Ads,Banner - Retargeting,East,Desktop,8706,63,1,18.64,35.19
+2025-03-01,Email,Lifecycle - Nurture,North,Tablet,41029,2824,216,228.48,8497.12
+2025-03-02,Google Ads,Shopping - Core,East,Mobile,23928,744,33,782.31,1438.0
+2025-03-02,Meta Ads,Retargeting - Site Visitors,East,Mobile,39560,609,18,387.16,823.54
+2025-03-02,YouTube,Shorts - Reach,West,Mobile,43905,502,7,242.77,276.3
+2025-03-02,Display Ads,Programmatic - Prospecting,North,Mobile,19456,156,1,45.07,33.83
+2025-03-02,Email,Lifecycle - Nurture,East,Tablet,30118,1944,133,175.46,5701.69
+2025-03-03,Google Ads,Search - Brand,South,Desktop,38849,1637,82,1938.79,4828.06
+2025-03-03,Meta Ads,Prospecting - Broad,North,Desktop,42722,823,19,466.21,662.59
+2025-03-03,YouTube,Shorts - Reach,Central,Desktop,9566,117,3,55.73,96.62
+2025-03-03,Display Ads,Programmatic - Prospecting,West,Mobile,16832,142,2,41.03,58.9
+2025-03-03,Email,Lifecycle - Nurture,Central,Desktop,10957,811,85,69.81,5889.54
+2025-03-04,Google Ads,Search - Brand,East,Mobile,20084,765,33,765.99,1679.53
+2025-03-04,Meta Ads,Retargeting - Site Visitors,West,Mobile,33800,664,23,441.47,1334.82
+2025-03-04,YouTube,Remarketing Video,Central,Mobile,37365,307,3,147.67,104.39
+2025-03-04,Display Ads,Banner - Retargeting,South,Mobile,27412,247,2,70.21,68.45
+2025-03-04,Email,Newsletter - Weekly,South,Mobile,33467,2013,152,156.88,6769.41
+2025-03-05,Google Ads,Search - Generic,Central,Mobile,29325,1576,81,1748.38,4441.15
+2025-03-05,Meta Ads,Prospecting - Broad,Central,Desktop,7716,117,5,72.66,206.29
+2025-03-05,YouTube,Shorts - Reach,Central,Mobile,40035,488,11,212.64,358.26
+2025-03-05,Display Ads,Banner - Retargeting,Central,Mobile,10763,95,1,38.37,36.97
+2025-03-05,Email,Newsletter - Weekly,North,Mobile,19882,1532,101,108.98,4570.57
+2025-03-06,Google Ads,Shopping - Core,West,Desktop,14375,553,34,529.59,1449.72
+2025-03-06,Meta Ads,Prospecting - Broad,East,Mobile,8640,153,9,108.13,372.25
+2025-03-06,YouTube,Shorts - Reach,West,Desktop,40148,379,6,189.17,272.51
+2025-03-06,Display Ads,Programmatic - Prospecting,South,Mobile,44810,307,2,99.87,73.85
+2025-03-06,Email,Winback - Dormant,South,Mobile,10845,434,32,32.82,1639.26
+2025-03-07,Google Ads,Search - Generic,East,Mobile,16983,342,15,332.98,649.17
+2025-03-07,Meta Ads,Retargeting - Site Visitors,Central,Desktop,12896,278,8,178.09,357.95
+2025-03-07,YouTube,Shorts - Reach,West,Mobile,21043,296,3,115.14,137.42
+2025-03-07,Display Ads,Contextual - News,Central,Mobile,7302,68,2,28.48,61.79
+2025-03-07,Email,Winback - Dormant,Central,Mobile,9138,460,42,24.6,1936.65
+2025-03-08,Google Ads,Shopping - Core,Central,Mobile,28742,1358,58,1818.22,2967.58
+2025-03-08,Meta Ads,Lead Gen - Lookalike,South,Mobile,22905,578,18,346.73,927.16
+2025-03-08,YouTube,Shorts - Reach,Central,Desktop,39865,522,10,183.83,391.59
+2025-03-08,Display Ads,Programmatic - Prospecting,West,Tablet,39211,226,0,74.58,0.0
+2025-03-08,Email,Newsletter - Weekly,Central,Tablet,17242,1229,103,108.28,5430.28
+2025-03-09,Google Ads,Search - Generic,East,Mobile,16789,661,45,897.16,1309.91
+2025-03-09,Meta Ads,Prospecting - Broad,Central,Mobile,40160,927,41,683.02,1612.81
+2025-03-09,YouTube,Remarketing Video,Central,Mobile,25510,387,7,210.71,223.71
+2025-03-09,Display Ads,Programmatic - Prospecting,North,Mobile,10734,84,2,32.02,38.14
+2025-03-09,Email,Newsletter - Weekly,Central,Mobile,33290,2012,164,159.29,8472.87
+2025-03-10,Google Ads,Search - Generic,North,Mobile,14240,770,42,880.72,1693.96
+2025-03-10,Meta Ads,Retargeting - Site Visitors,West,Desktop,8864,154,5,88.1,193.14
+2025-03-10,YouTube,Remarketing Video,East,Desktop,17847,180,2,69.32,71.15
+2025-03-10,Display Ads,Contextual - News,Central,Mobile,32803,219,1,83.33,25.18
+2025-03-10,Email,Lifecycle - Nurture,South,Mobile,43510,2313,184,198.72,7800.16
+2025-03-11,Google Ads,Search - Brand,South,Desktop,14334,889,41,951.58,1428.78
+2025-03-11,Meta Ads,Retargeting - Site Visitors,North,Tablet,39505,680,16,373.13,469.27
+2025-03-11,YouTube,Remarketing Video,East,Mobile,22281,315,9,148.85,377.16
+2025-03-11,Display Ads,Contextual - News,West,Desktop,35374,415,6,126.81,232.24
+2025-03-11,Email,Winback - Dormant,East,Mobile,17533,975,90,83.06,4206.76
+2025-03-12,Google Ads,Search - Brand,Central,Mobile,40140,1183,76,1154.85,2867.33
+2025-03-12,Meta Ads,Prospecting - Broad,Central,Mobile,15174,251,7,180.32,294.85
+2025-03-12,YouTube,Remarketing Video,East,Mobile,43582,577,11,246.8,265.14
+2025-03-12,Display Ads,Programmatic - Prospecting,South,Mobile,33238,252,3,98.22,105.99
+2025-03-12,Email,Lifecycle - Nurture,North,Mobile,37666,2303,179,202.99,8574.59
+2025-03-13,Google Ads,Search - Brand,West,Tablet,43857,1724,94,2164.83,6307.39
+2025-03-13,Meta Ads,Prospecting - Broad,Central,Mobile,19379,426,11,281.65,545.88
+2025-03-13,YouTube,In-stream Awareness,South,Mobile,30471,426,8,241.82,353.54
+2025-03-13,Display Ads,Programmatic - Prospecting,East,Desktop,34589,287,0,100.71,0.0
+2025-03-13,Email,Newsletter - Weekly,Central,Mobile,38417,2535,172,161.15,7607.52
+2025-03-14,Google Ads,Search - Brand,Central,Mobile,34440,1530,91,1681.08,5270.81
+2025-03-14,Meta Ads,Lead Gen - Lookalike,Central,Mobile,36171,668,16,405.46,566.77
+2025-03-14,YouTube,Shorts - Reach,West,Mobile,21068,281,4,142.65,143.23
+2025-03-14,Display Ads,Contextual - News,West,Mobile,35631,260,3,80.09,70.15
+2025-03-14,Email,Winback - Dormant,South,Mobile,18501,1023,82,61.36,2346.72
+2025-03-15,Google Ads,Search - Brand,East,Mobile,39713,2266,114,2718.15,4544.62
+2025-03-15,Meta Ads,Retargeting - Site Visitors,East,Desktop,20127,392,8,309.33,425.11
+2025-03-15,YouTube,In-stream Awareness,Central,Mobile,30945,396,7,171.47,326.63
+2025-03-15,Display Ads,Contextual - News,South,Desktop,34100,268,5,89.26,200.43
+2025-03-15,Email,Newsletter - Weekly,East,Desktop,34717,2199,161,189.1,5262.16
+2025-03-16,Google Ads,Search - Generic,Central,Mobile,14930,440,21,569.04,1264.07
+2025-03-16,Meta Ads,Retargeting - Site Visitors,North,Mobile,21975,479,19,265.0,769.77
+2025-03-16,YouTube,Shorts - Reach,South,Mobile,21795,300,5,133.58,126.5
+2025-03-16,Display Ads,Banner - Retargeting,Central,Desktop,26037,243,4,70.56,119.24
+2025-03-16,Email,Newsletter - Weekly,East,Mobile,17376,938,74,73.64,2903.53
+2025-03-17,Google Ads,Search - Generic,North,Mobile,26423,977,41,1116.04,2395.72
+2025-03-17,Meta Ads,Lead Gen - Lookalike,North,Desktop,42567,685,20,454.7,693.43
+2025-03-17,YouTube,Remarketing Video,Central,Mobile,24799,289,3,166.03,119.98
+2025-03-17,Display Ads,Programmatic - Prospecting,East,Tablet,18427,151,1,55.78,33.87
+2025-03-17,Email,Winback - Dormant,East,Mobile,7461,371,32,29.04,1204.84
+2025-03-18,Google Ads,Shopping - Core,East,Mobile,16666,692,36,807.14,1942.95
+2025-03-18,Meta Ads,Prospecting - Broad,East,Mobile,17337,339,11,204.14,592.21
+2025-03-18,YouTube,Remarketing Video,West,Mobile,18469,270,4,126.15,133.12
+2025-03-18,Display Ads,Banner - Retargeting,Central,Mobile,14093,77,0,23.93,0.0
+2025-03-18,Email,Winback - Dormant,East,Mobile,28555,1600,125,149.49,4857.85
+2025-03-19,Google Ads,Shopping - Core,Central,Mobile,18999,983,57,1291.35,2933.14
+2025-03-19,Meta Ads,Lead Gen - Lookalike,East,Desktop,18382,327,13,219.93,433.94
+2025-03-19,YouTube,In-stream Awareness,West,Mobile,26533,324,3,158.54,91.71
+2025-03-19,Display Ads,Programmatic - Prospecting,East,Mobile,18941,156,2,46.41,56.93
+2025-03-19,Email,Lifecycle - Nurture,West,Desktop,38762,1796,141,123.51,6015.76
+2025-03-20,Google Ads,Shopping - Core,East,Mobile,19803,1114,56,1149.98,1828.52
+2025-03-20,Meta Ads,Retargeting - Site Visitors,North,Mobile,34779,743,16,434.69,762.69
+2025-03-20,YouTube,Shorts - Reach,West,Mobile,25094,307,5,166.44,211.85
+2025-03-20,Display Ads,Programmatic - Prospecting,East,Mobile,32807,303,8,88.88,245.88
+2025-03-20,Email,Winback - Dormant,South,Desktop,38563,1555,122,150.56,6589.56
+2025-03-21,Google Ads,Search - Generic,East,Mobile,31440,1373,85,1497.94,3739.38
+2025-03-21,Meta Ads,Prospecting - Broad,West,Desktop,35828,568,15,373.34,673.63
+2025-03-21,YouTube,Shorts - Reach,West,Desktop,21305,253,6,113.04,288.72
+2025-03-21,Display Ads,Banner - Retargeting,East,Mobile,24614,235,2,81.3,64.85
+2025-03-21,Email,Newsletter - Weekly,North,Mobile,10961,626,51,55.91,1984.73
+2025-03-22,Google Ads,Search - Generic,East,Mobile,40840,1929,108,1852.04,4791.62
+2025-03-22,Meta Ads,Retargeting - Site Visitors,East,Mobile,7037,114,4,58.28,190.77
+2025-03-22,YouTube,In-stream Awareness,East,Tablet,22556,303,3,127.44,111.61
+2025-03-22,Display Ads,Banner - Retargeting,South,Mobile,30471,170,0,70.68,0.0
+2025-03-22,Email,Lifecycle - Nurture,South,Desktop,28377,1669,111,142.4,5175.3
+2025-03-23,Google Ads,Search - Generic,East,Desktop,43780,2175,101,2720.9,4352.58
+2025-03-23,Meta Ads,Retargeting - Site Visitors,West,Desktop,11489,201,9,146.02,394.56
+2025-03-23,YouTube,In-stream Awareness,East,Desktop,44976,533,11,259.71,351.05
+2025-03-23,Display Ads,Banner - Retargeting,West,Mobile,22646,280,4,77.92,148.49
+2025-03-23,Email,Lifecycle - Nurture,North,Tablet,40512,2681,212,167.03,6425.51
+2025-03-24,Google Ads,Search - Brand,North,Desktop,38667,1571,88,1626.43,4903.57
+2025-03-24,Meta Ads,Retargeting - Site Visitors,Central,Mobile,43392,780,29,501.21,1249.06
+2025-03-24,YouTube,Shorts - Reach,West,Desktop,14465,186,2,88.27,67.27
+2025-03-24,Display Ads,Banner - Retargeting,South,Mobile,43852,274,2,97.98,57.44
+2025-03-24,Email,Lifecycle - Nurture,East,Mobile,13037,926,67,69.31,3715.86
+2025-03-25,Google Ads,Shopping - Core,West,Mobile,38142,1884,92,2040.51,5961.72
+2025-03-25,Meta Ads,Prospecting - Broad,Central,Desktop,35328,740,19,419.05,615.15
+2025-03-25,YouTube,Remarketing Video,West,Mobile,38231,532,10,279.9,287.63
+2025-03-25,Display Ads,Contextual - News,North,Desktop,39466,382,5,137.74,86.17
+2025-03-25,Email,Newsletter - Weekly,South,Desktop,10210,568,44,41.35,2032.91
+2025-03-26,Google Ads,Shopping - Core,East,Desktop,25564,1481,79,1789.49,3590.94
+2025-03-26,Meta Ads,Lead Gen - Lookalike,Central,Mobile,25021,367,8,242.04,347.15
+2025-03-26,YouTube,Shorts - Reach,North,Tablet,31340,396,5,173.29,135.28
+2025-03-26,Display Ads,Contextual - News,South,Desktop,33831,369,3,117.62,101.02
+2025-03-26,Email,Winback - Dormant,North,Desktop,32573,2066,144,149.73,8466.41
+2025-03-27,Google Ads,Search - Brand,East,Mobile,36747,1260,70,1371.26,3494.26
+2025-03-27,Meta Ads,Prospecting - Broad,North,Mobile,12271,218,6,173.93,217.23
+2025-03-27,YouTube,Shorts - Reach,West,Desktop,34801,479,14,220.7,597.85
+2025-03-27,Display Ads,Contextual - News,South,Mobile,7433,54,1,13.19,32.35
+2025-03-27,Email,Lifecycle - Nurture,East,Mobile,11328,636,54,48.31,2230.61
+2025-03-28,Google Ads,Shopping - Core,West,Mobile,37381,1063,47,1042.69,1946.49
+2025-03-28,Meta Ads,Lead Gen - Lookalike,West,Desktop,16792,272,6,183.53,213.85
+2025-03-28,YouTube,Remarketing Video,West,Mobile,9272,86,0,43.05,0.0
+2025-03-28,Display Ads,Programmatic - Prospecting,North,Desktop,16697,113,1,35.85,33.27
+2025-03-28,Email,Newsletter - Weekly,West,Mobile,37824,2116,163,179.14,9419.29
+2025-03-29,Google Ads,Search - Brand,East,Desktop,14334,540,32,615.35,1221.28
+2025-03-29,Meta Ads,Prospecting - Broad,North,Mobile,27512,467,18,330.49,1092.36
+2025-03-29,YouTube,In-stream Awareness,North,Desktop,36522,438,5,216.71,261.02
+2025-03-29,Display Ads,Banner - Retargeting,North,Mobile,22420,128,3,44.75,86.26
+2025-03-29,Email,Winback - Dormant,North,Desktop,29744,1380,103,124.28,4933.69
+2025-03-30,Google Ads,Search - Brand,South,Desktop,24700,879,44,901.03,2582.7
+2025-03-30,Meta Ads,Retargeting - Site Visitors,West,Desktop,10655,164,6,123.96,312.26
+2025-03-30,YouTube,Remarketing Video,North,Mobile,28249,276,7,124.18,316.4
+2025-03-30,Display Ads,Programmatic - Prospecting,North,Mobile,26274,238,3,77.36,87.07
+2025-03-30,Email,Winback - Dormant,East,Mobile,42695,2921,226,241.74,10109.26
+2025-03-31,Google Ads,Search - Generic,Central,Desktop,33597,1602,75,1883.31,3757.23
+2025-03-31,Meta Ads,Lead Gen - Lookalike,South,Mobile,18768,293,14,189.72,517.12
+2025-03-31,YouTube,Remarketing Video,West,Mobile,9377,101,1,41.94,45.29
+2025-03-31,Display Ads,Programmatic - Prospecting,East,Mobile,32595,403,3,125.44,94.7
+2025-03-31,Email,Lifecycle - Nurture,North,Desktop,37851,2224,152,215.85,5847.97
+2025-04-01,Google Ads,Search - Generic,East,Mobile,20151,780,38,1184.59,1594.76
+2025-04-01,Meta Ads,Lead Gen - Lookalike,East,Desktop,43256,856,25,573.81,1114.34
+2025-04-01,YouTube,In-stream Awareness,South,Desktop,36894,348,5,188.37,223.4
+2025-04-01,Display Ads,Contextual - News,North,Desktop,24957,136,1,48.03,37.84
+2025-04-01,Email,Newsletter - Weekly,North,Mobile,10337,540,40,46.13,1515.06
+2025-04-02,Google Ads,Search - Brand,North,Tablet,25129,853,43,813.55,1625.39
+2025-04-02,Meta Ads,Retargeting - Site Visitors,East,Mobile,18880,327,12,227.67,451.96
+2025-04-02,YouTube,In-stream Awareness,South,Mobile,27267,392,8,197.85,330.25
+2025-04-02,Display Ads,Programmatic - Prospecting,East,Mobile,13084,105,1,33.35,27.73
+2025-04-02,Email,Lifecycle - Nurture,West,Mobile,20404,934,77,85.55,4451.79
+2025-04-03,Google Ads,Search - Generic,South,Mobile,39749,1870,108,1997.73,5758.41
+2025-04-03,Meta Ads,Retargeting - Site Visitors,East,Mobile,7969,182,10,98.28,383.35
+2025-04-03,YouTube,In-stream Awareness,South,Mobile,23584,329,3,136.1,96.5
+2025-04-03,Display Ads,Programmatic - Prospecting,Central,Mobile,7473,65,1,21.64,25.74
+2025-04-03,Email,Winback - Dormant,East,Mobile,10514,625,63,41.57,3076.4
+2025-04-04,Google Ads,Search - Generic,North,Mobile,20934,793,39,875.02,1706.73
+2025-04-04,Meta Ads,Retargeting - Site Visitors,Central,Mobile,33552,569,19,318.13,751.14
+2025-04-04,YouTube,In-stream Awareness,South,Mobile,8248,64,1,26.55,23.57
+2025-04-04,Display Ads,Banner - Retargeting,Central,Mobile,42527,387,4,115.56,117.87
+2025-04-04,Email,Lifecycle - Nurture,East,Desktop,29664,2123,150,161.56,7244.46
+2025-04-05,Google Ads,Search - Brand,East,Desktop,27059,1353,60,1638.52,2958.56
+2025-04-05,Meta Ads,Retargeting - Site Visitors,East,Mobile,24287,511,21,353.93,963.91
+2025-04-05,YouTube,Remarketing Video,South,Mobile,28357,313,5,141.11,184.04
+2025-04-05,Display Ads,Contextual - News,North,Mobile,33548,310,5,97.27,204.74
+2025-04-05,Email,Winback - Dormant,Central,Desktop,9908,612,55,53.54,2796.52
+2025-04-06,Google Ads,Shopping - Core,North,Mobile,37875,1624,102,1871.86,4545.71
+2025-04-06,Meta Ads,Prospecting - Broad,North,Mobile,27459,537,18,289.83,708.62
+2025-04-06,YouTube,Shorts - Reach,North,Mobile,39310,538,11,212.74,437.31
+2025-04-06,Display Ads,Programmatic - Prospecting,Central,Mobile,32747,265,5,89.08,145.35
+2025-04-06,Email,Lifecycle - Nurture,East,Mobile,44415,2366,182,177.37,8287.69
+2025-04-07,Google Ads,Search - Brand,South,Desktop,35940,1758,112,1710.72,5669.31
+2025-04-07,Meta Ads,Prospecting - Broad,North,Tablet,19467,253,8,129.05,335.5
+2025-04-07,YouTube,Remarketing Video,East,Mobile,31105,308,1,142.91,40.22
+2025-04-07,Display Ads,Programmatic - Prospecting,West,Mobile,37003,292,5,98.22,154.68
+2025-04-07,Email,Newsletter - Weekly,West,Mobile,25361,1048,83,75.83,4231.09
+2025-04-08,Google Ads,Search - Generic,West,Desktop,23428,701,49,758.33,2050.12
+2025-04-08,Meta Ads,Retargeting - Site Visitors,East,Desktop,41346,839,23,624.49,958.99
+2025-04-08,YouTube,Shorts - Reach,South,Desktop,30180,370,8,169.97,307.59
+2025-04-08,Display Ads,Banner - Retargeting,West,Mobile,41217,402,5,128.76,202.57
+2025-04-08,Email,Newsletter - Weekly,Central,Tablet,25869,1656,115,138.53,6044.63
+2025-04-09,Google Ads,Shopping - Core,West,Mobile,23938,1097,58,1067.89,2834.2
+2025-04-09,Meta Ads,Lead Gen - Lookalike,East,Mobile,39993,976,32,608.5,1242.07
+2025-04-09,YouTube,In-stream Awareness,West,Mobile,44197,379,8,197.29,343.47
+2025-04-09,Display Ads,Banner - Retargeting,Central,Mobile,29502,246,5,69.81,193.63
+2025-04-09,Email,Newsletter - Weekly,North,Mobile,12202,550,31,46.59,1666.36
+2025-04-10,Google Ads,Search - Generic,East,Desktop,26730,1440,80,1765.38,2362.56
+2025-04-10,Meta Ads,Retargeting - Site Visitors,North,Desktop,29959,490,24,336.22,1245.69
+2025-04-10,YouTube,In-stream Awareness,South,Mobile,25350,344,8,170.38,291.02
+2025-04-10,Display Ads,Programmatic - Prospecting,North,Mobile,17713,147,1,55.17,40.14
+2025-04-10,Email,Winback - Dormant,West,Mobile,36098,2397,184,186.16,10974.93
+2025-04-11,Google Ads,Shopping - Core,West,Desktop,23927,875,50,1067.92,2864.71
+2025-04-11,Meta Ads,Prospecting - Broad,East,Mobile,40548,776,22,463.54,914.01
+2025-04-11,YouTube,Remarketing Video,South,Mobile,23726,286,4,132.14,126.82
+2025-04-11,Display Ads,Banner - Retargeting,West,Mobile,31929,194,4,50.6,174.22
+2025-04-11,Email,Newsletter - Weekly,East,Desktop,20402,1327,90,89.14,4783.18
+2025-04-12,Google Ads,Search - Generic,East,Mobile,32400,1550,89,1749.55,5078.6
+2025-04-12,Meta Ads,Retargeting - Site Visitors,West,Mobile,24953,353,9,246.01,441.06
+2025-04-12,YouTube,Remarketing Video,West,Mobile,17509,225,2,115.53,85.82
+2025-04-12,Display Ads,Banner - Retargeting,East,Mobile,15999,159,1,61.12,26.72
+2025-04-12,Email,Lifecycle - Nurture,North,Mobile,14719,998,72,87.36,3285.17
+2025-04-13,Google Ads,Shopping - Core,Central,Mobile,41738,1941,106,2381.5,6969.63
+2025-04-13,Meta Ads,Prospecting - Broad,South,Desktop,21439,407,14,313.88,609.51
+2025-04-13,YouTube,Remarketing Video,North,Desktop,36798,548,8,319.89,283.39
+2025-04-13,Display Ads,Banner - Retargeting,South,Tablet,13498,96,0,24.18,0.0
+2025-04-13,Email,Lifecycle - Nurture,Central,Desktop,30025,1824,117,160.04,6143.95
+2025-04-14,Google Ads,Search - Brand,South,Mobile,23096,896,45,958.75,2211.63
+2025-04-14,Meta Ads,Lead Gen - Lookalike,Central,Mobile,44507,699,20,451.49,889.64
+2025-04-14,YouTube,Remarketing Video,Central,Desktop,34899,498,17,237.21,651.38
+2025-04-14,Display Ads,Contextual - News,West,Mobile,21489,194,2,70.95,66.44
+2025-04-14,Email,Lifecycle - Nurture,Central,Desktop,39339,2248,161,208.68,7285.6
+2025-04-15,Google Ads,Search - Generic,Central,Desktop,24024,1358,84,1488.04,4484.36
+2025-04-15,Meta Ads,Lead Gen - Lookalike,South,Mobile,26408,639,17,353.06,715.91
+2025-04-15,YouTube,In-stream Awareness,East,Mobile,39600,460,10,178.88,304.72
+2025-04-15,Display Ads,Banner - Retargeting,South,Mobile,16942,147,0,50.01,0.0
+2025-04-15,Email,Newsletter - Weekly,West,Mobile,18919,1259,104,92.42,5267.55
+2025-04-16,Google Ads,Shopping - Core,West,Tablet,42715,1558,89,1849.27,4824.38
+2025-04-16,Meta Ads,Prospecting - Broad,North,Desktop,32107,711,19,399.04,774.21
+2025-04-16,YouTube,Remarketing Video,South,Mobile,43488,517,11,221.61,359.22
+2025-04-16,Display Ads,Programmatic - Prospecting,North,Mobile,38404,340,5,106.95,184.4
+2025-04-16,Email,Newsletter - Weekly,North,Desktop,17392,1058,85,76.7,4223.15
+2025-04-17,Google Ads,Search - Generic,West,Mobile,36956,1871,86,2393.09,5158.59
+2025-04-17,Meta Ads,Lead Gen - Lookalike,Central,Desktop,23373,442,12,282.16,567.63
+2025-04-17,YouTube,Shorts - Reach,North,Mobile,22857,252,6,113.88,200.38
+2025-04-17,Display Ads,Contextual - News,East,Mobile,19457,134,1,34.09,51.13
+2025-04-17,Email,Newsletter - Weekly,Central,Desktop,17849,930,59,86.0,2627.06
+2025-04-18,Google Ads,Search - Generic,South,Mobile,31423,1287,73,1444.74,3982.96
+2025-04-18,Meta Ads,Retargeting - Site Visitors,East,Desktop,39153,853,32,587.54,1568.39
+2025-04-18,YouTube,In-stream Awareness,Central,Mobile,10094,91,2,45.88,90.92
+2025-04-18,Display Ads,Banner - Retargeting,North,Mobile,17565,138,1,34.17,22.66
+2025-04-18,Email,Newsletter - Weekly,North,Mobile,11237,895,78,61.16,4738.39
+2025-04-19,Google Ads,Shopping - Core,East,Desktop,20565,862,38,1077.21,1477.48
+2025-04-19,Meta Ads,Lead Gen - Lookalike,Central,Mobile,16681,283,9,159.69,398.49
+2025-04-19,YouTube,In-stream Awareness,West,Desktop,35216,434,5,205.85,199.15
+2025-04-19,Display Ads,Banner - Retargeting,East,Desktop,33785,258,5,93.94,168.08
+2025-04-19,Email,Lifecycle - Nurture,Central,Mobile,12989,913,73,83.84,3159.11
+2025-04-20,Google Ads,Search - Brand,Central,Mobile,27704,1298,65,1534.85,4323.76
+2025-04-20,Meta Ads,Retargeting - Site Visitors,West,Mobile,18966,358,8,237.36,316.73
+2025-04-20,YouTube,Shorts - Reach,South,Desktop,29272,345,6,171.48,231.53
+2025-04-20,Display Ads,Banner - Retargeting,Central,Mobile,22365,206,1,59.51,29.46
+2025-04-20,Email,Newsletter - Weekly,East,Tablet,13756,838,53,51.98,2258.88
+2025-04-21,Google Ads,Shopping - Core,Central,Desktop,31004,1097,67,1510.24,3226.15
+2025-04-21,Meta Ads,Prospecting - Broad,East,Mobile,17406,244,8,128.07,311.58
+2025-04-21,YouTube,Remarketing Video,Central,Mobile,30904,390,5,176.22,201.07
+2025-04-21,Display Ads,Banner - Retargeting,East,Mobile,9081,73,1,20.61,32.4
+2025-04-21,Email,Newsletter - Weekly,Central,Tablet,14979,520,40,36.33,1386.88
+2025-04-22,Google Ads,Shopping - Core,North,Mobile,44225,2105,121,2607.34,5566.44
+2025-04-22,Meta Ads,Retargeting - Site Visitors,South,Mobile,34293,500,14,271.29,731.16
+2025-04-22,YouTube,In-stream Awareness,West,Mobile,27458,251,2,88.14,71.67
+2025-04-22,Display Ads,Programmatic - Prospecting,Central,Mobile,44835,379,5,116.68,190.37
+2025-04-22,Email,Lifecycle - Nurture,Central,Desktop,24205,1658,128,110.01,4768.53
+2025-04-23,Google Ads,Shopping - Core,Central,Mobile,16651,802,39,945.39,1910.81
+2025-04-23,Meta Ads,Prospecting - Broad,Central,Mobile,11712,218,10,146.56,416.18
+2025-04-23,YouTube,Remarketing Video,South,Mobile,26625,317,5,138.89,187.74
+2025-04-23,Display Ads,Programmatic - Prospecting,East,Mobile,17072,160,4,38.89,160.07
+2025-04-23,Email,Winback - Dormant,North,Mobile,31879,2374,168,201.7,6288.66
+2025-04-24,Google Ads,Shopping - Core,North,Mobile,36987,1734,96,2401.09,5225.38
+2025-04-24,Meta Ads,Retargeting - Site Visitors,South,Mobile,37941,638,16,330.64,596.76
+2025-04-24,YouTube,In-stream Awareness,East,Mobile,17419,254,5,108.63,154.63
+2025-04-24,Display Ads,Programmatic - Prospecting,North,Mobile,12810,89,2,31.94,60.05
+2025-04-24,Email,Lifecycle - Nurture,East,Mobile,15332,1068,60,88.24,2993.35
+2025-04-25,Google Ads,Shopping - Core,West,Desktop,18915,890,43,1107.87,2423.46
+2025-04-25,Meta Ads,Lead Gen - Lookalike,South,Mobile,26011,484,16,313.11,485.42
+2025-04-25,YouTube,Remarketing Video,North,Mobile,33662,450,7,211.62,207.38
+2025-04-25,Display Ads,Contextual - News,West,Mobile,26713,236,5,68.95,237.28
+2025-04-25,Email,Lifecycle - Nurture,East,Mobile,12376,754,60,59.23,2672.06
+2025-04-26,Google Ads,Search - Brand,East,Mobile,25027,1106,68,1332.81,3036.4
+2025-04-26,Meta Ads,Retargeting - Site Visitors,West,Mobile,34271,605,13,386.13,481.91
+2025-04-26,YouTube,In-stream Awareness,South,Mobile,26903,346,5,149.66,186.79
+2025-04-26,Display Ads,Banner - Retargeting,South,Tablet,44585,346,8,129.53,231.63
+2025-04-26,Email,Lifecycle - Nurture,East,Desktop,18212,1014,79,76.16,3098.75
+2025-04-27,Google Ads,Shopping - Core,Central,Desktop,43831,2780,144,3220.64,7598.72
+2025-04-27,Meta Ads,Prospecting - Broad,Central,Mobile,27989,577,19,376.47,879.15
+2025-04-27,YouTube,In-stream Awareness,Central,Desktop,41007,460,5,241.35,233.66
+2025-04-27,Display Ads,Contextual - News,West,Mobile,35541,312,3,106.53,112.05
+2025-04-27,Email,Lifecycle - Nurture,South,Tablet,9508,670,47,49.06,2447.11
+2025-04-28,Google Ads,Search - Generic,Central,Mobile,33012,1685,100,1917.23,4615.23
+2025-04-28,Meta Ads,Prospecting - Broad,South,Desktop,40745,779,35,478.85,1308.83
+2025-04-28,YouTube,Shorts - Reach,West,Desktop,36373,357,6,177.64,369.75
+2025-04-28,Display Ads,Contextual - News,South,Desktop,44315,237,4,76.7,133.16
+2025-04-28,Email,Lifecycle - Nurture,East,Desktop,7789,589,50,49.25,2068.28
+2025-04-29,Google Ads,Search - Brand,East,Desktop,32684,1591,110,1537.28,4001.26
+2025-04-29,Meta Ads,Retargeting - Site Visitors,Central,Desktop,17759,254,8,138.12,366.46
+2025-04-29,YouTube,Remarketing Video,Central,Mobile,8039,83,0,34.72,0.0
+2025-04-29,Display Ads,Programmatic - Prospecting,West,Mobile,39555,271,0,99.25,0.0
+2025-04-29,Email,Winback - Dormant,South,Mobile,8549,549,37,41.98,2009.34
+2025-04-30,Google Ads,Search - Brand,East,Mobile,9480,349,23,462.88,1160.29
+2025-04-30,Meta Ads,Retargeting - Site Visitors,West,Mobile,44903,690,25,325.68,1450.7
+2025-04-30,YouTube,In-stream Awareness,West,Mobile,7464,89,1,47.27,35.65
+2025-04-30,Display Ads,Contextual - News,North,Desktop,40419,315,4,99.35,165.61
+2025-04-30,Email,Winback - Dormant,South,Mobile,39438,2201,171,210.37,6177.59
+2025-05-01,Google Ads,Search - Brand,Central,Mobile,19240,1169,66,1236.53,3509.91
+2025-05-01,Meta Ads,Retargeting - Site Visitors,West,Desktop,7948,141,2,94.14,71.17
+2025-05-01,YouTube,Remarketing Video,West,Mobile,44705,533,13,262.45,438.22
+2025-05-01,Display Ads,Banner - Retargeting,South,Mobile,31926,235,4,79.55,116.65
+2025-05-01,Email,Winback - Dormant,East,Mobile,30829,2352,173,179.82,9201.04
+2025-05-02,Google Ads,Search - Brand,North,Mobile,12571,484,21,579.49,974.59
+2025-05-02,Meta Ads,Prospecting - Broad,West,Mobile,14992,359,16,233.1,764.68
+2025-05-02,YouTube,Shorts - Reach,South,Mobile,19163,190,5,106.61,217.29
+2025-05-02,Display Ads,Contextual - News,North,Desktop,38315,267,4,78.47,146.13
+2025-05-02,Email,Winback - Dormant,West,Desktop,20654,1046,83,96.55,3638.34
+2025-05-03,Google Ads,Search - Brand,West,Mobile,26358,1091,59,1419.68,2964.34
+2025-05-03,Meta Ads,Lead Gen - Lookalike,North,Mobile,8986,92,2,59.27,84.66
+2025-05-03,YouTube,Shorts - Reach,South,Mobile,32747,436,8,195.67,469.46
+2025-05-03,Display Ads,Contextual - News,South,Desktop,21412,125,1,40.56,31.29
+2025-05-03,Email,Winback - Dormant,South,Mobile,37424,1529,116,149.28,4514.8
+2025-05-04,Google Ads,Search - Generic,East,Mobile,18958,857,45,956.0,2128.47
+2025-05-04,Meta Ads,Prospecting - Broad,South,Mobile,34881,526,18,237.87,826.64
+2025-05-04,YouTube,Remarketing Video,East,Mobile,19702,240,1,94.95,32.87
+2025-05-04,Display Ads,Programmatic - Prospecting,Central,Desktop,20613,222,1,74.04,31.74
+2025-05-04,Email,Winback - Dormant,East,Desktop,44692,3149,230,265.47,11981.91
+2025-05-05,Google Ads,Search - Generic,North,Desktop,21029,1248,63,1586.01,3194.12
+2025-05-05,Meta Ads,Prospecting - Broad,Central,Mobile,11259,229,7,135.5,326.33
+2025-05-05,YouTube,In-stream Awareness,East,Desktop,7229,106,2,44.31,60.11
+2025-05-05,Display Ads,Banner - Retargeting,South,Mobile,7716,56,0,15.74,0.0
+2025-05-05,Email,Newsletter - Weekly,East,Mobile,39687,2345,185,216.19,8425.02
+2025-05-06,Google Ads,Shopping - Core,South,Mobile,11341,497,25,622.74,1164.39
+2025-05-06,Meta Ads,Retargeting - Site Visitors,Central,Desktop,27650,530,19,382.16,907.93
+2025-05-06,YouTube,Shorts - Reach,West,Mobile,32892,323,8,168.58,227.91
+2025-05-06,Display Ads,Banner - Retargeting,Central,Mobile,26068,146,3,49.68,105.32
+2025-05-06,Email,Winback - Dormant,Central,Mobile,8849,490,32,43.05,1560.27
+2025-05-07,Google Ads,Shopping - Core,South,Desktop,11796,540,32,540.69,1541.34
+2025-05-07,Meta Ads,Retargeting - Site Visitors,West,Tablet,16514,256,10,154.02,450.7
+2025-05-07,YouTube,In-stream Awareness,South,Desktop,44904,512,6,228.78,243.66
+2025-05-07,Display Ads,Contextual - News,North,Mobile,8412,59,0,21.11,0.0
+2025-05-07,Email,Winback - Dormant,West,Desktop,23607,1492,105,108.61,4240.24
+2025-05-08,Google Ads,Search - Brand,Central,Mobile,37042,1511,84,1895.74,4198.48
+2025-05-08,Meta Ads,Retargeting - Site Visitors,South,Mobile,40124,585,15,381.31,829.53
+2025-05-08,YouTube,Shorts - Reach,Central,Desktop,13908,137,3,68.31,104.18
+2025-05-08,Display Ads,Contextual - News,North,Tablet,20882,122,0,44.13,0.0
+2025-05-08,Email,Lifecycle - Nurture,North,Mobile,39837,2712,214,190.72,9379.09
+2025-05-09,Google Ads,Search - Generic,West,Mobile,28148,1287,86,1649.6,3913.33
+2025-05-09,Meta Ads,Retargeting - Site Visitors,South,Mobile,30668,630,16,341.09,655.32
+2025-05-09,YouTube,In-stream Awareness,North,Desktop,30695,352,3,172.79,143.37
+2025-05-09,Display Ads,Banner - Retargeting,North,Mobile,13682,144,0,37.79,0.0
+2025-05-09,Email,Winback - Dormant,East,Desktop,28710,1936,146,174.54,5547.26
+2025-05-10,Google Ads,Shopping - Core,East,Mobile,11797,273,20,360.77,818.46
+2025-05-10,Meta Ads,Lead Gen - Lookalike,West,Mobile,17981,344,7,258.86,313.04
+2025-05-10,YouTube,Remarketing Video,South,Desktop,37814,351,5,181.5,200.89
+2025-05-10,Display Ads,Programmatic - Prospecting,South,Desktop,32765,117,0,38.24,0.0
+2025-05-10,Email,Winback - Dormant,Central,Mobile,35011,2218,178,186.76,7484.8
+2025-05-11,Google Ads,Shopping - Core,Central,Mobile,21542,995,58,1321.11,2693.84
+2025-05-11,Meta Ads,Retargeting - Site Visitors,South,Mobile,10285,193,5,115.46,223.74
+2025-05-11,YouTube,Remarketing Video,South,Mobile,23554,299,4,163.85,172.32
+2025-05-11,Display Ads,Contextual - News,North,Mobile,12647,111,1,35.03,27.53
+2025-05-11,Email,Winback - Dormant,West,Mobile,33985,2074,163,205.56,6754.6
+2025-05-12,Google Ads,Search - Brand,West,Mobile,15993,589,36,899.35,1714.96
+2025-05-12,Meta Ads,Prospecting - Broad,East,Mobile,7672,147,2,85.24,73.44
+2025-05-12,YouTube,In-stream Awareness,South,Mobile,30450,262,3,112.23,120.43
+2025-05-12,Display Ads,Contextual - News,South,Desktop,37958,277,8,82.2,241.96
+2025-05-12,Email,Lifecycle - Nurture,West,Mobile,26063,1551,124,111.64,5878.57
+2025-05-13,Google Ads,Search - Brand,West,Mobile,35027,1697,105,1846.62,4252.92
+2025-05-13,Meta Ads,Retargeting - Site Visitors,South,Tablet,9849,147,3,73.39,138.86
+2025-05-13,YouTube,Remarketing Video,South,Desktop,42078,623,15,327.58,489.25
+2025-05-13,Display Ads,Contextual - News,Central,Mobile,12199,89,0,30.39,0.0
+2025-05-13,Email,Newsletter - Weekly,East,Mobile,15860,790,46,54.89,1878.62
+2025-05-14,Google Ads,Shopping - Core,East,Mobile,8750,343,21,333.71,972.62
+2025-05-14,Meta Ads,Retargeting - Site Visitors,North,Mobile,22426,422,13,238.31,581.48
+2025-05-14,YouTube,Shorts - Reach,West,Mobile,7604,108,2,51.89,69.3
+2025-05-14,Display Ads,Banner - Retargeting,Central,Mobile,24982,220,2,73.97,58.13
+2025-05-14,Email,Newsletter - Weekly,South,Desktop,36899,1990,145,180.39,8634.69
+2025-05-15,Google Ads,Search - Brand,West,Mobile,40655,1880,93,1449.68,4177.46
+2025-05-15,Meta Ads,Retargeting - Site Visitors,North,Desktop,23304,395,9,213.82,355.78
+2025-05-15,YouTube,In-stream Awareness,East,Desktop,8320,59,0,27.0,0.0
+2025-05-15,Display Ads,Programmatic - Prospecting,Central,Mobile,24595,195,1,60.37,33.36
+2025-05-15,Email,Winback - Dormant,South,Mobile,42578,2901,223,197.82,11857.75
+2025-05-16,Google Ads,Search - Brand,South,Mobile,23469,784,40,1094.72,1731.19
+2025-05-16,Meta Ads,Prospecting - Broad,Central,Desktop,29732,689,20,488.98,690.43
+2025-05-16,YouTube,Remarketing Video,South,Mobile,11144,172,11,84.54,556.34
+2025-05-16,Display Ads,Programmatic - Prospecting,West,Desktop,26882,242,2,69.54,67.13
+2025-05-16,Email,Winback - Dormant,East,Desktop,37111,2718,188,195.26,6224.75
+2025-05-17,Google Ads,Search - Brand,Central,Desktop,26477,1315,69,1199.1,3254.64
+2025-05-17,Meta Ads,Lead Gen - Lookalike,South,Mobile,19311,369,17,252.01,659.24
+2025-05-17,YouTube,In-stream Awareness,South,Mobile,34679,415,6,222.48,173.48
+2025-05-17,Display Ads,Programmatic - Prospecting,South,Mobile,34233,245,3,77.78,94.9
+2025-05-17,Email,Newsletter - Weekly,South,Mobile,31547,1089,76,106.78,2628.79
+2025-05-18,Google Ads,Shopping - Core,West,Desktop,29618,1685,100,1801.53,4408.94
+2025-05-18,Meta Ads,Prospecting - Broad,East,Mobile,29045,398,20,189.1,717.29
+2025-05-18,YouTube,Remarketing Video,North,Mobile,39629,303,7,127.67,285.32
+2025-05-18,Display Ads,Programmatic - Prospecting,West,Mobile,28694,182,2,57.94,79.04
+2025-05-18,Email,Lifecycle - Nurture,East,Mobile,30606,1844,131,141.83,4114.79
+2025-05-19,Google Ads,Search - Brand,South,Mobile,26488,1053,77,1134.07,4092.03
+2025-05-19,Meta Ads,Prospecting - Broad,North,Mobile,18673,283,6,177.28,236.91
+2025-05-19,YouTube,Remarketing Video,Central,Mobile,20020,248,5,99.73,154.39
+2025-05-19,Display Ads,Programmatic - Prospecting,West,Mobile,24903,219,1,74.48,30.69
+2025-05-19,Email,Newsletter - Weekly,Central,Mobile,42668,2763,218,211.79,11037.69
+2025-05-20,Google Ads,Shopping - Core,East,Desktop,34596,1323,59,1365.38,3471.83
+2025-05-20,Meta Ads,Lead Gen - Lookalike,East,Mobile,21147,385,13,239.44,753.0
+2025-05-20,YouTube,In-stream Awareness,North,Mobile,19240,190,0,85.59,0.0
+2025-05-20,Display Ads,Banner - Retargeting,North,Desktop,18739,182,1,58.96,33.69
+2025-05-20,Email,Lifecycle - Nurture,South,Desktop,16148,910,76,80.03,2605.46
+2025-05-21,Google Ads,Search - Brand,East,Desktop,43737,2498,140,3236.94,8814.34
+2025-05-21,Meta Ads,Retargeting - Site Visitors,North,Mobile,17438,276,9,176.39,425.61
+2025-05-21,YouTube,In-stream Awareness,South,Mobile,41454,473,8,206.42,407.39
+2025-05-21,Display Ads,Contextual - News,East,Tablet,17497,139,1,48.99,28.92
+2025-05-21,Email,Newsletter - Weekly,East,Mobile,30317,2495,183,201.52,7048.09
+2025-05-22,Google Ads,Shopping - Core,Central,Mobile,22834,1074,60,1162.76,2667.73
+2025-05-22,Meta Ads,Retargeting - Site Visitors,North,Mobile,38064,663,20,341.34,425.89
+2025-05-22,YouTube,Remarketing Video,South,Mobile,33196,408,10,209.04,331.27
+2025-05-22,Display Ads,Banner - Retargeting,West,Mobile,40338,433,3,114.64,109.16
+2025-05-22,Email,Winback - Dormant,West,Mobile,38793,2674,181,173.86,9940.8
+2025-05-23,Google Ads,Search - Generic,West,Mobile,22468,848,51,945.01,2636.81
+2025-05-23,Meta Ads,Lead Gen - Lookalike,North,Mobile,23700,299,16,194.83,708.53
+2025-05-23,YouTube,Shorts - Reach,West,Desktop,19584,305,2,152.58,63.22
+2025-05-23,Display Ads,Programmatic - Prospecting,Central,Desktop,30616,283,6,82.12,189.29
+2025-05-23,Email,Lifecycle - Nurture,North,Mobile,36451,2139,145,167.63,8064.94
+2025-05-24,Google Ads,Search - Brand,South,Tablet,9385,418,24,539.19,1299.86
+2025-05-24,Meta Ads,Lead Gen - Lookalike,South,Mobile,25460,458,16,255.87,453.28
+2025-05-24,YouTube,Remarketing Video,North,Mobile,35358,493,10,206.84,449.73
+2025-05-24,Display Ads,Programmatic - Prospecting,East,Desktop,40868,283,3,90.9,96.99
+2025-05-24,Email,Winback - Dormant,East,Desktop,21626,1305,84,91.27,3712.21
+2025-05-25,Google Ads,Search - Generic,West,Tablet,18921,987,49,1042.84,2331.32
+2025-05-25,Meta Ads,Lead Gen - Lookalike,North,Mobile,23835,524,17,326.4,722.99
+2025-05-25,YouTube,Shorts - Reach,West,Mobile,18309,194,1,94.23,42.86
+2025-05-25,Display Ads,Programmatic - Prospecting,East,Mobile,9780,67,3,17.74,107.59
+2025-05-25,Email,Lifecycle - Nurture,East,Mobile,16221,1062,81,82.38,3090.82
+2025-05-26,Google Ads,Search - Brand,South,Desktop,10911,632,37,817.71,1514.97
+2025-05-26,Meta Ads,Lead Gen - Lookalike,South,Mobile,7705,153,6,92.72,252.48
+2025-05-26,YouTube,In-stream Awareness,South,Mobile,11092,147,1,77.36,33.16
+2025-05-26,Display Ads,Banner - Retargeting,North,Desktop,44498,334,2,105.82,86.14
+2025-05-26,Email,Winback - Dormant,West,Mobile,25213,1584,126,127.96,5809.62
+2025-05-27,Google Ads,Search - Generic,South,Mobile,38365,1854,88,2250.14,4085.56
+2025-05-27,Meta Ads,Retargeting - Site Visitors,Central,Desktop,8890,191,10,94.52,539.85
+2025-05-27,YouTube,Remarketing Video,West,Desktop,29640,459,10,218.12,472.63
+2025-05-27,Display Ads,Programmatic - Prospecting,South,Mobile,13755,97,0,32.88,0.0
+2025-05-27,Email,Newsletter - Weekly,East,Mobile,36760,2275,167,162.23,6161.71
+2025-05-28,Google Ads,Shopping - Core,East,Mobile,39781,2024,114,2301.89,7555.81
+2025-05-28,Meta Ads,Lead Gen - Lookalike,Central,Mobile,35619,563,19,345.72,1228.38
+2025-05-28,YouTube,In-stream Awareness,South,Mobile,17707,236,5,113.26,154.27
+2025-05-28,Display Ads,Contextual - News,South,Desktop,9988,88,0,32.93,0.0
+2025-05-28,Email,Newsletter - Weekly,West,Mobile,8563,493,30,40.63,1321.64
+2025-05-29,Google Ads,Search - Brand,West,Mobile,23986,819,30,984.77,1254.93
+2025-05-29,Meta Ads,Lead Gen - Lookalike,West,Desktop,40012,834,19,554.41,513.98
+2025-05-29,YouTube,In-stream Awareness,South,Desktop,36006,462,9,223.06,364.6
+2025-05-29,Display Ads,Banner - Retargeting,West,Mobile,42275,241,2,72.11,60.34
+2025-05-29,Email,Newsletter - Weekly,North,Desktop,39230,2041,180,159.64,9455.35
+2025-05-30,Google Ads,Search - Brand,South,Desktop,18996,876,51,1399.23,3076.5
+2025-05-30,Meta Ads,Prospecting - Broad,West,Desktop,14668,204,4,133.87,123.02
+2025-05-30,YouTube,Shorts - Reach,South,Tablet,10267,143,5,72.73,156.32
+2025-05-30,Display Ads,Banner - Retargeting,North,Desktop,7223,65,0,18.92,0.0
+2025-05-30,Email,Lifecycle - Nurture,West,Mobile,8551,452,25,28.15,1058.9
+2025-05-31,Google Ads,Search - Brand,East,Mobile,13067,482,23,614.71,1179.38
+2025-05-31,Meta Ads,Retargeting - Site Visitors,North,Mobile,14171,297,4,223.27,140.86
+2025-05-31,YouTube,Shorts - Reach,Central,Desktop,44347,672,4,293.9,168.95
+2025-05-31,Display Ads,Programmatic - Prospecting,East,Desktop,43124,294,4,105.24,173.02
+2025-05-31,Email,Lifecycle - Nurture,North,Mobile,19041,1420,117,123.32,5858.56
+2025-06-01,Google Ads,Shopping - Core,East,Mobile,11908,639,34,801.78,1183.55
+2025-06-01,Meta Ads,Prospecting - Broad,North,Mobile,9432,219,5,168.74,229.9
+2025-06-01,YouTube,Shorts - Reach,North,Mobile,13773,177,1,88.06,45.54
+2025-06-01,Display Ads,Contextual - News,West,Mobile,35560,300,5,109.03,176.13
+2025-06-01,Email,Newsletter - Weekly,East,Mobile,10671,630,49,46.36,2024.85
+2025-06-02,Google Ads,Shopping - Core,West,Desktop,32036,1389,81,1596.42,3847.71
+2025-06-02,Meta Ads,Lead Gen - Lookalike,West,Mobile,40459,662,24,417.22,949.23
+2025-06-02,YouTube,In-stream Awareness,East,Mobile,38853,618,17,296.83,733.23
+2025-06-02,Display Ads,Banner - Retargeting,Central,Mobile,16686,118,0,38.1,0.0
+2025-06-02,Email,Newsletter - Weekly,East,Mobile,8171,468,41,41.9,1461.02
+2025-06-03,Google Ads,Search - Generic,West,Mobile,14324,613,27,840.67,1146.9
+2025-06-03,Meta Ads,Lead Gen - Lookalike,Central,Mobile,39399,765,22,541.22,1121.64
+2025-06-03,YouTube,Shorts - Reach,South,Mobile,20176,184,2,88.37,91.81
+2025-06-03,Display Ads,Contextual - News,North,Mobile,10503,91,1,31.84,30.73
+2025-06-03,Email,Newsletter - Weekly,South,Mobile,43919,1855,149,159.3,5360.24
+2025-06-04,Google Ads,Search - Generic,South,Desktop,15707,701,40,875.37,1954.19
+2025-06-04,Meta Ads,Retargeting - Site Visitors,West,Mobile,20826,273,13,175.66,646.13
+2025-06-04,YouTube,In-stream Awareness,Central,Desktop,34977,413,2,205.93,75.92
+2025-06-04,Display Ads,Contextual - News,West,Desktop,19387,153,2,55.79,48.39
+2025-06-04,Email,Lifecycle - Nurture,East,Mobile,27673,1600,133,114.63,4074.08
+2025-06-05,Google Ads,Shopping - Core,Central,Mobile,23215,1213,59,1488.38,2760.6
+2025-06-05,Meta Ads,Retargeting - Site Visitors,East,Desktop,13845,315,6,204.01,238.52
+2025-06-05,YouTube,In-stream Awareness,West,Mobile,27826,310,6,153.61,191.82
+2025-06-05,Display Ads,Contextual - News,North,Mobile,24190,216,3,64.7,128.02
+2025-06-05,Email,Newsletter - Weekly,West,Mobile,38754,3124,245,228.81,10753.72
+2025-06-06,Google Ads,Search - Generic,Central,Mobile,40377,2073,110,2484.77,5967.39
+2025-06-06,Meta Ads,Prospecting - Broad,West,Mobile,22987,248,9,133.64,383.05
+2025-06-06,YouTube,Shorts - Reach,Central,Mobile,13885,171,4,86.27,152.34
+2025-06-06,Display Ads,Contextual - News,Central,Mobile,15646,90,1,26.66,31.53
+2025-06-06,Email,Lifecycle - Nurture,West,Mobile,34874,1720,118,148.8,6257.38
+2025-06-07,Google Ads,Shopping - Core,West,Mobile,35375,1722,108,2031.86,4513.01
+2025-06-07,Meta Ads,Lead Gen - Lookalike,West,Mobile,29756,570,19,304.44,480.56
+2025-06-07,YouTube,In-stream Awareness,West,Mobile,27867,342,4,171.47,119.06
+2025-06-07,Display Ads,Contextual - News,West,Mobile,38898,366,5,121.86,191.99
+2025-06-07,Email,Newsletter - Weekly,East,Desktop,9653,513,49,40.19,2454.31
+2025-06-08,Google Ads,Shopping - Core,North,Desktop,13275,641,44,957.34,1818.06
+2025-06-08,Meta Ads,Lead Gen - Lookalike,Central,Desktop,10694,150,5,91.61,242.68
+2025-06-08,YouTube,In-stream Awareness,West,Desktop,36510,526,10,249.98,347.54
+2025-06-08,Display Ads,Contextual - News,North,Desktop,10957,93,5,31.51,137.72
+2025-06-08,Email,Newsletter - Weekly,North,Mobile,19544,1337,94,104.55,4629.99
+2025-06-09,Google Ads,Search - Brand,Central,Mobile,17469,759,53,797.83,2833.79
+2025-06-09,Meta Ads,Lead Gen - Lookalike,North,Mobile,16047,277,13,173.83,592.15
+2025-06-09,YouTube,Remarketing Video,South,Desktop,13959,146,6,82.28,211.96
+2025-06-09,Display Ads,Contextual - News,North,Mobile,19656,170,1,70.95,38.06
+2025-06-09,Email,Winback - Dormant,West,Mobile,9020,660,40,55.35,2475.3
+2025-06-10,Google Ads,Shopping - Core,West,Mobile,38649,2032,109,2334.37,6315.81
+2025-06-10,Meta Ads,Lead Gen - Lookalike,Central,Mobile,33897,564,13,271.57,717.97
+2025-06-10,YouTube,Remarketing Video,Central,Desktop,11953,121,4,46.98,162.76
+2025-06-10,Display Ads,Contextual - News,West,Mobile,24595,218,1,65.17,22.07
+2025-06-10,Email,Lifecycle - Nurture,West,Desktop,32096,2057,159,169.38,8633.2
+2025-06-11,Google Ads,Shopping - Core,North,Desktop,28445,1237,60,1312.14,2722.44
+2025-06-11,Meta Ads,Lead Gen - Lookalike,South,Mobile,26297,505,14,321.8,531.75
+2025-06-11,YouTube,Shorts - Reach,South,Mobile,22581,228,5,96.39,242.42
+2025-06-11,Display Ads,Contextual - News,Central,Mobile,24997,265,5,81.22,213.98
+2025-06-11,Email,Winback - Dormant,East,Mobile,19648,1231,81,93.79,3539.15
+2025-06-12,Google Ads,Search - Generic,Central,Tablet,17358,641,39,757.22,2001.0
+2025-06-12,Meta Ads,Lead Gen - Lookalike,East,Mobile,39816,685,14,424.3,697.69
+2025-06-12,YouTube,Shorts - Reach,Central,Desktop,23953,288,1,190.99,39.34
+2025-06-12,Display Ads,Programmatic - Prospecting,North,Mobile,32574,314,5,84.38,170.99
+2025-06-12,Email,Newsletter - Weekly,North,Mobile,28200,1125,81,94.88,4486.91
+2025-06-13,Google Ads,Search - Generic,East,Mobile,34074,1694,87,2100.91,2808.88
+2025-06-13,Meta Ads,Prospecting - Broad,South,Mobile,21762,419,9,269.9,456.14
+2025-06-13,YouTube,In-stream Awareness,Central,Mobile,26674,271,6,127.14,88.11
+2025-06-13,Display Ads,Programmatic - Prospecting,South,Mobile,43503,468,3,143.52,93.06
+2025-06-13,Email,Lifecycle - Nurture,North,Mobile,40492,2494,195,228.34,10762.84
+2025-06-14,Google Ads,Search - Brand,North,Mobile,27983,1297,52,1726.1,2263.36
+2025-06-14,Meta Ads,Lead Gen - Lookalike,Central,Desktop,35380,698,18,385.39,943.08
+2025-06-14,YouTube,In-stream Awareness,North,Mobile,16493,237,3,100.2,160.63
+2025-06-14,Display Ads,Banner - Retargeting,East,Mobile,16112,138,3,41.67,114.87
+2025-06-14,Email,Winback - Dormant,Central,Desktop,21256,1054,71,82.8,4378.37
+2025-06-15,Google Ads,Shopping - Core,East,Mobile,20187,1052,53,1321.74,2420.81
+2025-06-15,Meta Ads,Lead Gen - Lookalike,Central,Mobile,23021,315,7,198.73,193.96
+2025-06-15,YouTube,Shorts - Reach,West,Mobile,33386,582,9,266.25,273.7
+2025-06-15,Display Ads,Programmatic - Prospecting,South,Desktop,21767,168,5,41.0,146.42
+2025-06-15,Email,Lifecycle - Nurture,South,Desktop,20108,1080,87,83.5,5038.65
+2025-06-16,Google Ads,Search - Generic,West,Desktop,32792,1626,109,1861.66,5842.79
+2025-06-16,Meta Ads,Lead Gen - Lookalike,Central,Desktop,43608,746,22,505.79,1113.08
+2025-06-16,YouTube,Remarketing Video,Central,Desktop,20580,200,1,101.56,26.72
+2025-06-16,Display Ads,Contextual - News,North,Mobile,39457,341,5,135.54,244.9
+2025-06-16,Email,Newsletter - Weekly,North,Desktop,27542,1982,168,149.01,7644.74
+2025-06-17,Google Ads,Shopping - Core,Central,Desktop,40101,1924,109,2736.96,7113.91
+2025-06-17,Meta Ads,Lead Gen - Lookalike,West,Mobile,24531,487,15,362.59,681.54
+2025-06-17,YouTube,Shorts - Reach,East,Mobile,36611,426,4,207.8,145.44
+2025-06-17,Display Ads,Banner - Retargeting,West,Mobile,12712,126,0,48.18,0.0
+2025-06-17,Email,Winback - Dormant,East,Mobile,28678,1817,122,146.38,5314.86
+2025-06-18,Google Ads,Shopping - Core,East,Mobile,43289,1525,89,1488.69,4960.82
+2025-06-18,Meta Ads,Retargeting - Site Visitors,South,Mobile,7488,147,5,83.57,209.24
+2025-06-18,YouTube,Remarketing Video,West,Mobile,11078,151,3,74.61,76.25
+2025-06-18,Display Ads,Contextual - News,North,Mobile,37414,149,1,54.69,39.16
+2025-06-18,Email,Lifecycle - Nurture,North,Mobile,8934,316,22,27.39,899.8
+2025-06-19,Google Ads,Shopping - Core,East,Tablet,31257,1439,72,1473.81,4228.4
+2025-06-19,Meta Ads,Lead Gen - Lookalike,East,Mobile,16000,284,10,216.39,359.66
+2025-06-19,YouTube,Remarketing Video,North,Desktop,16924,258,6,130.34,219.8
+2025-06-19,Display Ads,Programmatic - Prospecting,South,Mobile,24631,183,3,54.59,76.26
+2025-06-19,Email,Newsletter - Weekly,West,Mobile,19077,1102,81,95.61,3617.78
+2025-06-20,Google Ads,Search - Brand,West,Mobile,17463,485,22,619.48,996.33
+2025-06-20,Meta Ads,Lead Gen - Lookalike,West,Desktop,14193,265,9,196.11,283.92
+2025-06-20,YouTube,In-stream Awareness,Central,Mobile,34803,463,11,142.61,342.5
+2025-06-20,Display Ads,Programmatic - Prospecting,North,Desktop,17755,152,1,39.06,38.67
+2025-06-20,Email,Winback - Dormant,South,Tablet,12787,908,76,59.47,3882.12
+2025-06-21,Google Ads,Search - Generic,South,Mobile,23140,1057,57,1121.65,2906.73
+2025-06-21,Meta Ads,Retargeting - Site Visitors,North,Mobile,44737,761,29,435.82,1337.22
+2025-06-21,YouTube,In-stream Awareness,Central,Mobile,34665,575,11,273.95,316.82
+2025-06-21,Display Ads,Programmatic - Prospecting,Central,Mobile,40384,292,3,102.75,88.55
+2025-06-21,Email,Newsletter - Weekly,North,Desktop,24478,1994,155,157.68,7957.17
+2025-06-22,Google Ads,Search - Generic,South,Mobile,21726,1171,76,1262.5,3975.68
+2025-06-22,Meta Ads,Retargeting - Site Visitors,East,Mobile,12905,259,6,174.44,208.3
+2025-06-22,YouTube,Shorts - Reach,South,Mobile,17480,220,2,106.61,104.12
+2025-06-22,Display Ads,Contextual - News,South,Mobile,24185,143,2,41.3,72.43
+2025-06-22,Email,Newsletter - Weekly,East,Mobile,10665,729,65,63.3,3107.77
+2025-06-23,Google Ads,Search - Generic,Central,Mobile,8413,343,13,416.43,735.32
+2025-06-23,Meta Ads,Retargeting - Site Visitors,East,Desktop,16065,272,8,154.3,441.38
+2025-06-23,YouTube,In-stream Awareness,Central,Mobile,41951,479,8,297.41,264.54
+2025-06-23,Display Ads,Programmatic - Prospecting,East,Desktop,32022,223,4,75.12,103.84
+2025-06-23,Email,Newsletter - Weekly,North,Desktop,8418,465,34,46.12,1489.58
+2025-06-24,Google Ads,Search - Brand,Central,Mobile,32194,1576,92,2092.09,4551.17
+2025-06-24,Meta Ads,Retargeting - Site Visitors,Central,Desktop,38867,792,35,489.83,918.41
+2025-06-24,YouTube,Remarketing Video,Central,Desktop,41246,526,6,311.92,267.12
+2025-06-24,Display Ads,Banner - Retargeting,West,Mobile,31486,221,1,53.23,30.07
+2025-06-24,Email,Winback - Dormant,Central,Tablet,9920,784,62,78.48,2321.0
+2025-06-25,Google Ads,Shopping - Core,East,Mobile,12802,510,28,591.61,1734.52
+2025-06-25,Meta Ads,Prospecting - Broad,Central,Mobile,44427,790,19,612.24,532.68
+2025-06-25,YouTube,In-stream Awareness,Central,Mobile,39168,614,9,303.36,362.95
+2025-06-25,Display Ads,Banner - Retargeting,East,Mobile,24679,158,1,50.78,22.12
+2025-06-25,Email,Winback - Dormant,West,Tablet,34124,1512,130,124.29,5732.28
+2025-06-26,Google Ads,Shopping - Core,South,Mobile,22950,991,61,1077.33,3220.07
+2025-06-26,Meta Ads,Prospecting - Broad,West,Mobile,19470,303,9,190.94,321.43
+2025-06-26,YouTube,In-stream Awareness,North,Mobile,23417,198,3,111.13,135.05
+2025-06-26,Display Ads,Contextual - News,South,Mobile,33678,263,7,77.84,280.58
+2025-06-26,Email,Newsletter - Weekly,East,Desktop,20763,1243,96,91.54,5596.52
+2025-06-27,Google Ads,Search - Generic,South,Mobile,35618,1821,107,2100.15,5962.32
+2025-06-27,Meta Ads,Retargeting - Site Visitors,East,Desktop,27886,580,19,355.29,775.51
+2025-06-27,YouTube,In-stream Awareness,North,Mobile,12909,118,1,49.59,45.77
+2025-06-27,Display Ads,Programmatic - Prospecting,East,Mobile,12770,130,1,47.87,30.97
+2025-06-27,Email,Newsletter - Weekly,East,Mobile,7684,438,42,38.06,2008.31
+2025-06-28,Google Ads,Shopping - Core,South,Desktop,11541,415,23,420.92,1198.81
+2025-06-28,Meta Ads,Lead Gen - Lookalike,North,Mobile,10045,182,5,97.31,252.77
+2025-06-28,YouTube,Shorts - Reach,Central,Mobile,29513,224,4,114.45,148.64
+2025-06-28,Display Ads,Banner - Retargeting,Central,Desktop,18939,196,2,70.06,74.9
+2025-06-28,Email,Newsletter - Weekly,North,Mobile,39389,2483,188,168.11,8763.57
+2025-06-29,Google Ads,Shopping - Core,South,Mobile,17816,1016,52,1182.91,2173.64
+2025-06-29,Meta Ads,Lead Gen - Lookalike,West,Tablet,22495,557,17,272.33,876.55
+2025-06-29,YouTube,Shorts - Reach,South,Desktop,28600,418,7,202.52,350.31
+2025-06-29,Display Ads,Banner - Retargeting,North,Mobile,10740,71,3,25.38,97.36
+2025-06-29,Email,Lifecycle - Nurture,North,Desktop,32044,2019,146,211.23,7943.41
+2025-06-30,Google Ads,Search - Brand,North,Desktop,10394,446,23,403.12,739.21
+2025-06-30,Meta Ads,Lead Gen - Lookalike,Central,Mobile,19425,428,16,266.32,569.93
+2025-06-30,YouTube,Shorts - Reach,South,Desktop,32862,478,6,239.2,254.32
+2025-06-30,Display Ads,Banner - Retargeting,South,Tablet,12681,86,1,34.36,43.52
+2025-06-30,Email,Lifecycle - Nurture,North,Mobile,16168,1170,82,84.16,4007.98
